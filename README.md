@@ -43,12 +43,12 @@
    - **Repository:** [Online Streaming Platform(StreamVista) Repository](https://github.com/saekumar/online-streaming-platform)
    - **Deployed Link:** [StreamVista Deployed Link]()
 
-3. **PDFSquare**
+3. **Online E-learning**
    - **Description:** Discover an immersive e-learning platform designed to enrich your educational journey. Our frontend project offers a dynamic interface where you can seamlessly explore an extensive array of courses, delve into insightful blogs, and interact with a vibrant community of learners. Dive into a world of knowledge at your fingertips, where learning knows no bounds..
    - **Tech Stack:** Next Js, Tailwind CSS, .
    - **Deployment:** Deployed on Vercelplatform.
-   - **Repository:** [PDFSquare Repository](https://github.com/saekumar/E-Learning-Next-Js)
-   - **Deployed Link:** [PDFSquare Deployed Link](https://e-learning-next-js.vercel.app/)
+   - **Repository:** [E-Learning Repository](https://github.com/saekumar/E-Learning-Next-Js)
+   - **Deployed Link:** [E-Learning  Deployed Link](https://e-learning-next-js.vercel.app/)
 
 4. **Personal Portfolio**
    - **Description:** Personal Portfolio showcasing projects and skills.
