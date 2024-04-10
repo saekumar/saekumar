@@ -1,7 +1,7 @@
 <!-- Your Name or Project Title -->
-# Hi there, I'm Reddy Venkat Kalyan! 👋
+# Hi there, I'm Puppala Veera Venkata Satya Sai Kumar! 👋
 <!-- Brief Description -->
-I'm a Full Stack Developer with expertise in Spring Boot and moderate experience in Django and Flask. I enjoy working with HTML and leverage Bootstrap for CSS. Welcome to my GitHub profile where I share my projects and experiences.
+>Enthusiastic Full Stack Developer and driven student, adept at creating seamless and dynamic web applications. Proficient in React.js and Next.js with a passion for crafting user-friendly interfaces and scalable solutions.Skilled in leveraging modern technologies to develop robust front-end and back-end systems. Excels in problem-solving and implementing efficient code practices to deliver high-quality products. Eager to contribute expertise in full stack development to innovative projects and collaborate with dynamic teams.
 
 <!-- Skills -->
 ## 🛠️ Skills
@@ -30,61 +30,59 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
 
 <!-- Featured Projects -->
 ## 🔥 Featured Projects
-1. **TaskPrompter**
-   - **Description:** TaskPrompter is a web application used for efficient task management. Users will be notified via email for upcoming scheduled events two hours before the event.
-   - **Tech Stack:** HTML, Bootstrap, CSS, MySQL, Spring Boot.
-   - **Deployment:** Deployed on Render cloud platform.
-   - **Repository:** [TaskPrompter Repository](https://github.com/R-Venkat-Kalyan/taskprompter)
-   - **Deployed Link:** [TaskPrompter Deployed Link](https://taskprompter-fe.onrender.com/)
+1. **Online Prompt Selling Application**
+   - **Description:** This platform functions as a multi-vendor online marketplace for prompt sales, enabling users to purchase or sell prompts. Administrators oversee all prompt listings and vendor permissions, ensuring smooth transactions and maintaining quality standards.
+   - **Tech Stack:** Next Js,Tailwind CSS,Clerk Authentication,MongoDB.
+   - **Deployment:** Deployed on vercel platform.
+   - **Repository:** [Prompt Sellling Market Place (Saenius)Repository](https://github.com/saekumar/ai-prompt)
+   - **Deployed Link:** [Saenius Deployed Link](https://saenius.vercel.app)
    
-2. **Counseling Management System**
-   - **Description:** Counseling Management System is a web application used by educational institutions to enhance counselor-student mapping.
-   - **Tech Stack:** HTML, Bootstrap, CSS, MongoDB, Spring Boot.
-   - **Deployment:** Deployed on Render cloud platform.
-   - **Repository:** [Counseling Management System Repository](https://github.com/R-Venkat-Kalyan/CMS_MongoDB)
-   - **Deployed Link:** [Counseling Management System Deployed Link](https://cms-mongodb.onrender.com/)
+2. **Online Live Streaming Platform**
+   - **Description:** This application facilitates live streaming where users can broadcast their content, and others can join as guests or viewers in real-time, akin to the functionality of the Twitch platform. It offers an interactive experience for creators and audiences alike, fostering community engagement through live interactions and shared content.
+   - **Tech Stack:** Next Js, Tailwind CSS, MongoDB, Clerk Authentication.
+   - **Deployment:** Deployed on Vercel platform.
+   - **Repository:** [Online Streaming Platform(StreamVista) Repository](https://github.com/saekumar/online-streaming-platform)
+   - **Deployed Link:** [StreamVista Deployed Link]()
 
 3. **PDFSquare**
-   - **Description:** PDFSquare is an online PDF tool used to perform various operations on files such as PDF to image conversion, PDF to Word conversion, locking PDFs, compressing PDFs, and merging PDFs.
-   - **Tech Stack:** HTML, Tailwind CSS, Django.
-   - **Deployment:** Deployed on PythonAnywhere platform.
-   - **Repository:** [PDFSquare Repository](https://github.com/R-Venkat-Kalyan/PDF)
-   - **Deployed Link:** [PDFSquare Deployed Link](https://pdfsquare959.pythonanywhere.com/)
+   - **Description:** Discover an immersive e-learning platform designed to enrich your educational journey. Our frontend project offers a dynamic interface where you can seamlessly explore an extensive array of courses, delve into insightful blogs, and interact with a vibrant community of learners. Dive into a world of knowledge at your fingertips, where learning knows no bounds..
+   - **Tech Stack:** Next Js, Tailwind CSS, .
+   - **Deployment:** Deployed on Vercelplatform.
+   - **Repository:** [PDFSquare Repository](https://github.com/saekumar/E-Learning-Next-Js)
+   - **Deployed Link:** [PDFSquare Deployed Link](https://e-learning-next-js.vercel.app/)
 
 4. **Personal Portfolio**
    - **Description:** Personal Portfolio showcasing projects and skills.
-   - **Tech Stack:** HTML, CSS, JavaScript.
-   - **Deployment:** Deployed on GitHub Pages.
-   - **Repository:** [Personal Portfolio Repository](https://github.com/R-Venkat-Kalyan/R-Venkat-Kalyan.github.io)
-   - **Deployed Link:** [Personal Portfolio Deployed Link](https://r-venkat-kalyan.github.io/)
+   - **Tech Stack:** React JS, Tailwind CSS, JavaScript.
+   - **Deployment:** Deployed on vercel .
+   - **Repository:** [Personal Portfolio Repository](https://github.com/saekumar/Portfolio)
+   - **Deployed Link:** [Personal Portfolio Deployed Link](https://saikumar-portfolio.vercel.app)
 
 <!-- Internship Experience -->
 ## 🚀 Internship Experience
 1. **AICTE Virtual Internship**
    - **Duration:** [Dec 2022] - [Feb 2023]
-   - **Description:** Gained insights about AWS cloud services.
+   - **Description:** Gained insights about Juniper Networks Networking.
 
-2. **Bharat Intern Web Development Virtual Internship**
-   - **Duration:** [Oct 2023] - [Nov 2023]
-   - **Description:** Designed personal portfolio website and built a temperature converter website.
+
 
 
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=R-Venkat-Kalyan&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saekumar&show_icons=true&theme=radical)
 
 <!-- Top Languages -->
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Venkat-Kalyan&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saekumar&layout=compact&theme=radical)
 
 <!-- Connect with Me -->
 ## 🌟 Connect with Me
-- <a href="https://www.linkedin.com/in/reddy-venkat-kalyan-822981225/" target="_blank">LinkedIn</a>
-- <a href="https://t.me/+91977636577" target="_blank">Telegram</a>
-- <a href="https://instagram.com/kalyan_chowdary_04?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">Insatgram</a>
+- <a href="https://www.linkedin.com/in/saikumar-puppala-009019234//" target="_blank">LinkedIn</a>
+- <a href="https://t.me/+807414973" target="_blank">Telegram</a>
+- <a href="https://www.instagram.com/saii___kumar/" target="_blank">Insatgram</a>
 
 
 <!-- Footer -->
 ## 📝 Footer
-Thanks for stopping by! Don't forget to ⭐️ [Star](https://github.com/R-Venkat-Kalyan) my repositories if you found them useful!
+Thanks for stopping by! Don't forget to ⭐️ [Star](https://github.com/saekumar) my repositories if you found them useful!
